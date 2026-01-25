@@ -55,16 +55,4 @@ I’m passionate about turning data into actionable insights using **Machine Lea
 
 ---
 
-## 🏆 Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=yashveersaini\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
-
----
-
-## 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=yashveersaini\&icon=0\&color=0)](https://visitcount.itsvg.in)
-
----
-
 ⭐ *Always curious, always learning—open to collaborations and exciting data-driven projects!*
