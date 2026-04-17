@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Yashveer
-🧠 **GenAI Engineer · LLM Application Developer · RAG & Agentic Systems**
+### 🧠 **GenAI Engineer · LLM Application Developer · RAG & Agentic Systems**
 
 I build production-grade **Generative AI applications** — from RAG pipelines and LLM-powered agents to fine-tuned model deployments. With a strong foundation in ML/DL and a sharp focus on the modern GenAI stack, I design systems that are context-aware, grounded, and production-ready.
 
