@@ -1,58 +1,66 @@
 # 👋 Hi, I'm Yashveer
+🧠 **GenAI Engineer · LLM Application Developer · RAG & Agentic Systems**
 
-🚀 **Aspiring Data Scientist | ML & DL Enthusiast**
-I’m passionate about turning data into actionable insights using **Machine Learning** and **Deep Learning**. With hands-on experience in building **end-to-end ML/DL pipelines**, I enjoy working across the full lifecycle—from data preprocessing and feature engineering to model training, evaluation, and deployment.
+I build production-grade **Generative AI applications** — from RAG pipelines and LLM-powered agents to fine-tuned model deployments. With a strong foundation in ML/DL and a sharp focus on the modern GenAI stack, I design systems that are context-aware, grounded, and production-ready.
 
 ---
 
-## 💡 What I Do
+## 🔥 What I Build
 
-* 🤖 Build and fine-tune **Machine Learning & Deep Learning models** (TensorFlow / Keras)
-* 🧠 Apply **transfer learning** for efficient and scalable solutions
-* 📊 Perform **data analysis & visualization** using Python
-* 🗄️ Work with **SQL databases** for data extraction and manipulation
-* 📈 Track experiments and models using **MLflow**
+- 🤖 **RAG Pipelines** — document QA, semantic search, hybrid retrieval using FAISS / Pinecone / ChromaDB
+- 🧩 **LLM Agents** — multi-step reasoning, tool-use agents, and agentic workflows with LangChain & LangGraph
+- 🌐 **LLM API Integrations** — OpenAI (GPT-4o), Google Gemini, and open-source model APIs
+- 🔧 **Model Fine-tuning** — LoRA / QLoRA fine-tuning on open-source LLMs for domain-specific tasks
+- 💬 **Prompt Engineering** — chain-of-thought, few-shot, system prompts for reliable LLM behavior
+- 📊 **ML/DL Pipelines** — end-to-end pipelines from preprocessing to deployment with MLflow tracking
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/yashveer-saini-021679281)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:yashveersaini1110@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yashveer-saini-021679281)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashveersaini1110@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages & Databases**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
+**GenAI & LLM**
 
-**Data Science & ML**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Deep Learning & MLOps**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge\&logo=Keras\&logoColor=white)
-![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge\&logo=numpy\&logoColor=blue)
+**Vector Databases & Retrieval**
 
-**Tools & Version Control**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
+
+**ML / DL**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+
+**Languages, DBs & Tools**
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=yashveersaini\&theme=dark\&hide_border=false\&show_icons=true)
-![](https://nirzak-streak-stats.vercel.app/?user=yashveersaini\&theme=dark\&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashveersaini\&theme=dark\&hide_border=false\&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=yashveersaini&theme=dark&hide_border=false&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=yashveersaini&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashveersaini&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-⭐ *Always curious, always learning—open to collaborations and exciting data-driven projects!*
+⭐ *Open to GenAI roles, LLM application projects, and research collaborations — let's build something intelligent.*
